@@ -10,6 +10,7 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+  }
 }
 
 /* Background Overlay */
@@ -220,5 +221,4 @@ h1 {
 h2 {
   text-align: center;
   color: #d30c73;
-}
 }
